@@ -19,11 +19,11 @@ The finance, simulator, and risk engines are pure functions in `lib/finance`, `l
 
 ## Design direction
 
-Three possible directions: **Midnight Signal** (0.04), **Civic Utility** (0.06), **Quiet Harvest** (0.03). Chosen: **Midnight Signal**.
+Three possible directions: **Forest Ledger** (0.04), **Civic Utility** (0.06), **Quiet Harvest** (0.03). Chosen: **Forest Ledger**.
 
-- **Design movement:** modern civic utility with a high-contrast midnight interface: black shell, white working surfaces, and lime signals.
+- **Design movement:** modern civic utility with a grounded field-ledger interface: forest navigation, sand-beige canvas, and clean white working surfaces.
 - **Core principles:** reassure before asking; show evidence beside every recommendation; make the next action obvious; keep touch targets generous.
-- **Color philosophy:** midnight black carries roughly 60% of the interface, pure white carries roughly 30% for readable working surfaces, and lime green carries roughly 10% for action, active states, and evidence signals.
+- **Color philosophy:** forest green `#1F3D2B` anchors navigation, headings, actions, and identity; sand beige `#E8DCC4` carries the page canvas and soft surfaces; white remains a restrained working-surface contrast.
 - **Layout paradigm:** a left rail on desktop becomes a sticky compact tab row on mobile; the main workspace uses an offset two-column rhythm rather than uniform cards.
 - **Signature elements:** hypothesis cards with a small evidence trail, trust badges that never hide provenance, and a “decision pulse” strip that summarizes the current plan.
 - **Interaction philosophy:** every control updates a plain-language explanation nearby; sliders are paired with numeric readouts; destructive or high-stakes actions are never ambiguous.
@@ -32,7 +32,7 @@ Three possible directions: **Midnight Signal** (0.04), **Civic Utility** (0.06),
 - **Brand essence:** practical intelligence for rural business decisions, before money moves. Personality: grounded, encouraging, transparent.
 - **Brand voice:** “See the signal before you spend.” / “This is a hypothesis to test, not a promise.”
 - **Wordmark & logo:** a simple pulse line that becomes a village path inside a rounded green square.
-- **Signature brand color:** `#B7FF2A` lime pulse green.
+- **Signature brand color:** `#1F3D2B` forest pulse green, paired with sand beige `#E8DCC4`.
 
 ## Delivery sequence
 
